@@ -7,8 +7,10 @@ START2LIMITED_SHOES_EDITION is a platform to manage the sale of limited edition 
 **IMPORTANT**
 Only super users can auction shoes
 
+
 ## Built with:🔗
-* Remix
+* Python
 * Django
-* Ganache
-* MongoDB
+* Web3
+* Redis
+* HTML/CSS
