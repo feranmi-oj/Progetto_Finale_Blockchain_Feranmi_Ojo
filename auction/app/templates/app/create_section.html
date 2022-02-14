@@ -6,14 +6,14 @@
     <link rel="stylesheet" href="{% static 'css/log.css'%}">
     <div class="wrapper fadeInDown" >
         <div id="formContent">
-                        <h2>Enter the pair of shoes you want to sell in the auction</h2>
-                        <br>
-                        <form method="POST" enctype="multipart/form-data" style="max-width:100%">
-                            {% csrf_token %}
-                            {{ form|crispy }}
-                            <br>
-                            <input type="submit" class="btn btn-info" value="Create">
-                        </form>
+                <h2>Enter the pair of shoes you want to sell in the auction</h2>
+                <br>
+                <form method="POST" enctype="multipart/form-data" style="max-width:100%">
+                    {% csrf_token %}
+                    {{ form|crispy }}
+                    <br>
+                    <input type="submit" class="btn btn-info" value="Create">
+                </form>
             </div>
         </div>
     </div>
