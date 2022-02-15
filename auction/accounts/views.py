@@ -72,7 +72,7 @@ def register_view(request):
             user.refresh_from_db() #stiamo andando a ricaricare l'istanza del profilo che è stata generata dal signals
 
             newUser = Profile(user=user)
-            newUser.usd_balance= int(random.uniform(500, 1000))
+            newUser.usd_balance= int(random.uniform(500, 1500))
             newUser.ip_address=getIpAdd(request)
             newUser.last_login=timezone.now()
             newUser.save()
