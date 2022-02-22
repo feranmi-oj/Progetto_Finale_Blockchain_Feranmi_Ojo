@@ -7,7 +7,7 @@ START2LIMITED_SHOES_EDITION is a platform to manage the sale of limited edition 
 **IMPORTANT**
 Only super users can auction shoes
 
-##Installation
+##Installation:
 Before running the project, remember to install the followings:
 
 * python virtual environment
