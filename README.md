@@ -7,10 +7,33 @@ START2LIMITED_SHOES_EDITION is a platform to manage the sale of limited edition 
 **IMPORTANT**
 Only super users can auction shoes
 
+##Installation
+Before running the project, remember to install the followings:
 
+* python virtual environment
+* django
+* djongo
+* web3
+* django-redis
+* redis
+* pymongo
+##Start the project
+
+- Before starting the runserver you need to do a first migration with:
+  - python manage.py migrate
+* And create a superuser with: 
+  - python manage.py createsuperuser
+- **Example Superuser**
+ * username: admin 
+ * password: admin
+
+- Then, start the project by typing:
+  - manage.py runserver in the terminal
+* and to access the platform and start buying limited edtion shoes you must register on the registration page
 ## Built with:🔗
 * Python
 * Django
 * Web3
 * Redis
 * HTML/CSS
+
