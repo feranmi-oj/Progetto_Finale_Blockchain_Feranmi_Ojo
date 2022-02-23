@@ -20,7 +20,7 @@ Before running the project, remember to install the followings:
 ## Start the project
 
 - Before starting the runserver you need to do a first migration with:
-  - python manage.py migrate
+  $ python manage.py migrate
 * And create a superuser with: 
   - python manage.py createsuperuser
 - **Example Superuser**
