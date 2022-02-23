@@ -20,11 +20,14 @@ Before running the project, remember to install the followings:
 ### Start the project
 
 - Before starting the runserver  in the terminal you need to do a first migration with:
- 
+```sh
     $ python manage.py migrate
+ ```
+    
 * And create a superuser with: 
-  
+```sh
     $ python manage.py createsuperuser
+ ```
 - **Example Superuser**
  
     username: admin 
@@ -33,9 +36,9 @@ Before running the project, remember to install the followings:
 
 
 - Then, start the project by typing:
-  
+```sh
     $ python manage.py runserver 
-  
+```
    
 * and to access the platform and start buying limited edtion shoes you must register on the registration page
 ## Built with:🔗
