@@ -19,16 +19,24 @@ Before running the project, remember to install the followings:
 * pymongo
 ## Start the project
 
-- Before starting the runserver you need to do a first migration with:
-  $ python manage.py migrate
+- Before starting the runserver  in the terminal you need to do a first migration with:
+ 
+    $ python manage.py migrate
 * And create a superuser with: 
-  - python manage.py createsuperuser
+  
+    $ python manage.py createsuperuser
 - **Example Superuser**
- * username: admin 
- * password: admin
+ 
+    username: admin 
+    
+     password: admin
+
 
 - Then, start the project by typing:
-  - manage.py runserver in the terminal
+  
+    $ python manage.py runserver 
+  
+   
 * and to access the platform and start buying limited edtion shoes you must register on the registration page
 ## Built with:🔗
 * Python
