@@ -48,3 +48,8 @@ Before running the project, remember to install the followings:
 * Redis
 * HTML/CSS
 
+## START2LIMITED_SHOES_EDITION Presentation
+To have a preview of the site you can have a look at my Presentation
+presentation file: "[Progetto-Finale-di-Feranmi-Ojo.pptx]()"
+
+
