@@ -50,6 +50,6 @@ Before running the project, remember to install the followings:
 
 ## START2LIMITED_SHOES_EDITION Presentation
 To have a preview of the site you can have a look at my Presentation
-presentation file: "[Progetto-Finale-di-Feranmi-Ojo.pptx]()"
+presentation file: "[Progetto-Finale-di-Feranmi-Ojo.pptx](https://github.com/feranmi-oj/Progetto_Finale_Blockchain_Feranmi_Ojo/blob/master/Progetto-Finale-Blockchain-di-Feranmi-Ojo.pptx)"
 
 
